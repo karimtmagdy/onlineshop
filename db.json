@@ -9,9 +9,9 @@
         "Connectivity Technology": "Wi-Fi",
         "Cellular Technology": "2G",
         "Colors": {
-          "col1": "Pacific Blue",
-          "col2": "Graphite",
-          "col3": "Gold"
+          "color": "Pacific Blue",
+          "color": "Graphite",
+          "color": "Gold"
         },
         "Screen Size": "6.7 Inches",
         "Model Name": "Apple iPhone 12 Pro Max",
@@ -66,10 +66,10 @@
         "Connectivity Technology": "Bluetooth, NFC",
         "Cellular Technology": "LTE, CDMA, EV-DO, UMTS, HSPA, HSDPA, GSM, EDGE",
         "Colors": {
-          "col1": "Black",
-          "col2": "Blue",
-          "col3": "Coral",
-          "col4": "Red"
+          "color": "Black",
+          "color": "Blue",
+          "color": "Coral",
+          "color": "Red"
         },
         "Screen Size": "6.1 Inches",
         "Model Name": "Iphone XR",
@@ -128,9 +128,9 @@
         "Connectivity Technology": "Bluetooth, Wi-Fi",
         "Cellular technology": "5G",
         "Colors": {
-          "col1": "Black",
-          "col2": "Blue",
-          "col3": "White"
+          "color": "Black",
+          "color": "Blue",
+          "color": "White"
         },
         "Screen Size": "5.4 Inches",
         "Model Name": "IPhone 12 Mini",
@@ -183,9 +183,9 @@
       "about": {
         "Brand": "Apple",
         "Colors": {
-          "col1": "Black",
-          "col2": "Red",
-          "col3": "Meyer Lemon"
+          "color": "Black",
+          "color": "Red",
+          "color": "Meyer Lemon"
         },
         "Form Factor": "Basic Case",
         "CompatiblePhone Models": "IPhone 11 Pro Max",
@@ -234,10 +234,10 @@
         "Special Feature": "Noise-Canceling",
         "Item Weight": "0.85 Pounds",
         "Colors": {
-          "col1": "Green",
-          "col2": "Pink",
-          "col3": "Silver",
-          "col4": "Sky Blue"
+          "color": "Green",
+          "color": "Pink",
+          "color": "Silver",
+          "color": "Sky Blue"
         }
       },
       "aboutthisitem": [
@@ -286,9 +286,9 @@
         "Connectivity Technology": "Bluetooth, Wi-Fi, USB, NFC",
         "Cellular Technology": "5G",
         "Colors": {
-          "col1": "Blue",
-          "col2": "White",
-          "col3": "Black"
+          "color": "Blue",
+          "color": "White",
+          "color": "Black"
         },
         "ScreenSize": "6.5 Inches",
         "Model Name": "Samsung Galaxy A53 5G",
@@ -341,9 +341,9 @@
         "Connectivity Technology": "Bluetooth, Wi-Fi, USB, NFC",
         "Cellular Technology": "LTE, GSM, WCDMA, CDMA, HSPA, EV-DO",
         "Colors": {
-          "col1": "Bora Purple",
-          "col2": "Burgundy",
-          "col3": "Phantom Black"
+          "color": "Bora Purple",
+          "color": "Burgundy",
+          "color": "Phantom Black"
         },
         "Screen Size": "6.8 Inches",
         "Model Name": "S22 Ultra",
@@ -397,9 +397,9 @@
         "Connectivity Technology": "Wi-Fi",
         "Cellular Technology": "2G",
         "Colors": {
-          "col1": "Pacific Blue",
-          "col2": "Graphite",
-          "col3": "Gold"
+          "color": "Pacific Blue",
+          "color": "Graphite",
+          "color": "Gold"
         },
         "Screen Size": "7.6 Inches",
         "Model Name": "Galaxy Z Fold4",
@@ -457,7 +457,7 @@
         "Brand": "SAMSUNG",
         "Model Name": "",
         "Colors": {
-          "col1": ""
+          "color": ""
         },
         "Cellular Technology": "Samsung NX Mini",
         "Photo Sensor Size": "1-inch",
@@ -511,9 +511,9 @@
         "Connectivity Technology": "USB, Bluetooth 5.0",
         "Form Factor": "In Ear",
         "Colors": {
-          "col1": "Mystic Bronze",
-          "col2": "Mystic Black",
-          "col3": "Mystic Red"
+          "color": "Mystic Bronze",
+          "color": "Mystic Black",
+          "color": "Mystic Red"
         }
       },
       "aboutthisitem": [
@@ -562,10 +562,10 @@
         "Model Name": "I37",
         "Form Factor": "On Ear",
         "Colors": {
-          "col1": "Purple",
-          "col2": "Blue",
-          "col3": "Green",
-          "col4": "Pink"
+          "color": "Purple",
+          "color": "Blue",
+          "color": "Green",
+          "color": "Pink"
         }
       },
       "aboutthisitem": [
@@ -615,9 +615,9 @@
         "Connectivity Technology": "Bluetooth",
         "Form Factor": "Over Ear",
         "Colors": {
-          "col1": "Blue",
-          "col2": "Purple",
-          "col3": "Green"
+          "color": "Blue",
+          "color": "Purple",
+          "color": "Green"
         }
       },
       "aboutthisitem": [
@@ -660,8 +660,8 @@
         "Connectivity Technology": "Wireless, Wired",
         "Form Factor": "In Ear",
         "Colors": {
-          "col1": "White",
-          "col2": "Pink"
+          "color": "White",
+          "color": "Pink"
         }
       },
       "aboutthisitem": [
@@ -704,8 +704,8 @@
         "Special Feature": "Voice Call, Activity Tracker, 1.85 Inch HD Screen, Notifications, Heart Rate",
         "Form Factor": "case",
         "Colors": {
-          "col1": "Black",
-          "col2": "White"
+          "color": "Black",
+          "color": "White"
         },
         "Model Name": "Model Name",
         "Shape": "Rectangular",
@@ -752,9 +752,9 @@
         "Screen Size": "1.1 Inches",
         "Special Feature": "ReminderActivity Tracker, Blood Pressure Monitor, Sleep Monitor, Stress Tracki…",
         "Colors": {
-          "col1": "Midnight Black",
-          "col2": "Orange",
-          "col3": "Olive"
+          "color": "Midnight Black",
+          "color": "Orange",
+          "color": "Olive"
         },
         "Model Name": "Band 5",
         "Shape": "Heart",
@@ -806,7 +806,7 @@
         "Special Feature": "Ultra-low-power Display, Upgraded 100+ Professional Sports Modes, Built-in GPS, Speaker and Mic, Barometer,Compass, New Fast Charging Technology, Heart Rate Monitor, Steps Tracker, Sleep Tracking, Calorie Tracker, Distance Tracker, Notifications, Smart Training: Recovery Time and VO2 MAX",
         "Form Factor": "case",
         "Colors": {
-          "col1": "Black"
+          "color": "Black"
         },
         "Model Name": "TicWatch Pro 5",
         "Shape": "Round",
@@ -853,9 +853,9 @@
         "Special Feature": "Activity Tracker, Calorie Tracker",
         "Form factor": "case",
         "Colors": {
-          "col1": "Purple",
-          "col2": "Green",
-          "col3": "Pink"
+          "color": "Purple",
+          "color": "Green",
+          "color": "Pink"
         },
         "Model Name": "HENGTO",
         "Shape": "Square",
@@ -908,8 +908,8 @@
         "Special Feature": "Sleep Monitor, Activity Tracker, Always On Display, Phone Call, Heart Rate Monitor",
         "Form Factor": "case",
         "Colors": {
-          "col1": "Champagne Gold case with white band",
-          "col2": "Black"
+          "color": "Champagne Gold case with white band",
+          "color": "Black"
         },
         "Model Name": "LA24",
         "Shape": "Rectangular",
@@ -954,7 +954,7 @@
         "Brand": "ASUS",
         "ScreenSize": "16 Inches",
         "Colors": {
-          "col1": "Eclipse Gray"
+          "color": "Eclipse Gray"
         },
         "Hard Disk Size": "512 GB",
         "CPU Model": "Intel Core i7",
@@ -1043,7 +1043,7 @@
         "Brand": "MSI",
         "ScreenSize": "17.3 Inches",
         "Colors": {
-          "col1": "Black"
+          "color": "Black"
         },
         "Hard Disk Size": "1 TB",
         "CPU Model": "Core i9",
@@ -1087,7 +1087,7 @@
         "Brand": "SGIN",
         "Screen Size": "17.3 Inches",
         "Colors": {
-          "col1": ""
+          "color": ""
         },
         "Hard Disk Size": "128 GB",
         "CPU Model": "Celeron 2.8 GHz",
@@ -1130,7 +1130,7 @@
         "Brand": "Acer",
         "Screen Size": "14 Inches",
         "Colors": {
-          "col1": "Silver"
+          "color": "Silver"
         },
         "Hard Disk Size": "512 GB",
         "CPU Model": "Intel Core i7",
@@ -1176,7 +1176,7 @@
         "Brand": "LG",
         "Screen Size": "16 Inches",
         "Colors": {
-          "col1": "Black"
+          "color": "Black"
         },
         "Hard Disk Size": "512 GB",
         "CPU Model": "Intel Core i7",
@@ -1222,7 +1222,7 @@
       "about": {
         "Brand": "Utopia Kitchen",
         "Colors": {
-          "col1": "Black"
+          "color": "Black"
         },
         "Material": "Aluminum",
         "Special Feature": "Non Stick",
@@ -1268,7 +1268,7 @@
       "about": {
         "Brand": "HHMJSM",
         "Colors": {
-          "col1": "White"
+          "color": "White"
         },
         "Material": "Glass",
         "Capacity": "5 Fluid Ounces",
