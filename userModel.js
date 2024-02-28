@@ -1,3 +1,39 @@
+const mongoose=require("mongoose")
+const userSchema= new mongoose.Schema({
+username:{type:String},
+email:{type:String},
+
+password:{type:String},
+confirm_password:{type:String},
+mobile_phone:{type: Number},
+
+username:{type:String},
+username:{type:String},
+username:{type:String},
+username:{type:String},
+username:{type:String},
+username:{type:String},
+username:{type:String},
+username:{type:String},
+
+username:{type:String},
+location:[
+country:{type: String},
+city:{type:String},
+state:{type:String},
+],
+
+username:{type:String},
+
+username:{type:String},
+
+username:{type:String},
+
+},{timestamps:true})
+
+const User=mongoose.model("User", userSchema")
+module.exports= User
+//----------------------------------
 "gender": "female",
       "name": {
         "title": "Miss",
