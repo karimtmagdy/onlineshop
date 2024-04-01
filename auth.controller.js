@@ -11,7 +11,7 @@ res.status(400).json({status:'fail',message:'some went wrong'})
 // for testing api
 
 app.use('/categories',(req,res)=>{
-if(){
+if(!categories){
 res.status(404).json({status:'fail', message:'not found'})
 }
 res.status(200).json({
