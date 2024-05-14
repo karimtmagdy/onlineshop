@@ -82,7 +82,7 @@ placeholder={placeholder}
   />
 
 {icon}{value}
-<span className={classSpan}>{arrow}</span>
+<small className={classHelper}>{helper}</small>
 </filedset>
 </>)}
 
