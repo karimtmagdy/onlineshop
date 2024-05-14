@@ -4,6 +4,10 @@ import {twMarge} from 'tailwind-marge'
 
 const styles=cva([''],{
 variants:{
+mode:[
+menu:{''},
+switch:{''},
+],
 variant:[
 base:{},
 danger:{},
@@ -65,7 +69,7 @@ return (<>
 </button>
 </>)}
 
-
+// active: dark: disabled: hover:
 
 
 
