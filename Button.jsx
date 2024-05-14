@@ -4,16 +4,21 @@ import {twMarge} from 'tailwind-marge'
 
 const styles=cva([''],{
 variants:{
-shape:{},
-outline:{},
-color:{},
-fit:{},
-size:{},
-loading:{
-true:'',
-false:'',
-},
-px:{},
+shape:[
+xs:{''},
+sm:{''},
+md:{''},
+lg:{''},
+],
+outline:[''],
+color:[''],
+fit:[''],
+size:[''],
+loading:[
+true:[''],
+false:[''],
+],
+px:[''],
 },
 compoundVariants: [{ intent: "primary", size: "medium", class: "uppercase" }],
 defaultVariants: {
