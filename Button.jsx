@@ -2,20 +2,20 @@ import cva from 'class-variance-authority'
 import {clsx} from 'clsx'
 import {twMarge} from 'tailwind-marge'
 
-const cva=([],{
+const styles=cva([],{
 variants:{
+shape:{},
+outline:{},
+color:{},
+fit:{},
 size:{},
 size:{},
-size:{},
-size:{},
-size:{},
-size:{},
-size:{},
+px:{},
 }
 })
-const Button =({,,,,,,,})=>{
+const Button =({className,,,,,,,...props})=>{
 return (<>
-<button>
+<button  className={clsx(twMarge(styles({}),className))}>
 {}{}{}
 </button>
 </>
