@@ -24,19 +24,20 @@ success:{},
 warning:{},
 primary:{},
 ],
-bezel:[
+gradient:[
 base:{},
 danger:{},
 success:{},
 warning:{},
 primary:{},
 ],
-color:['hot','zinc','sunshine'],
+color:[
+'zinc','hot','green','sunshine','primary'],
 fit:[
-xs:{''},
-sm:{''},
-md:{''},
-lg:{''},
+xs:{'w- h-'},
+sm:{'w- h-'},
+md:{'w- h-'},
+lg:{'w- h-'},
 ],
 size:[
 xs:{''},
