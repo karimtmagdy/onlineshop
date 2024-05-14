@@ -2,7 +2,7 @@ import { cva, type VariantProps } from "class-variance-authority";
 import {clsx} from 'clsx'
 import {twMarge} from 'tailwind-marge'
 import {zinc,hot,green, sunshine, primary} from '@constants'
-// 
+// make variable dark with if statement es6 switch on to classes dark
 const styles=cva([`flex items-center`],{
 variants:{
 color:[
