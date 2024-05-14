@@ -75,7 +75,7 @@ return (<>
 
 }),className))}>
 {icon}{value}
-<spanclassName={classSpan}>{arrow}</span>
+<span className={classSpan}>{arrow}</span>
 </button>
 </>)}
 
