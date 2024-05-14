@@ -9,19 +9,24 @@ outline:{},
 color:{},
 fit:{},
 size:{},
-size:{},
+loading:{
+true:'',
+false:'',
+},
 px:{},
-}
+},
+defaultVariants: {
+    loading: "false",
+  },
 })
-const Button =({className,,icon,value,arrow, disabled,onClick,...props})=>{
+const Button =({className,,,,,,,,icon,value,arrow, disabled,onClick,...props})=>{
 return (<>
-<button disabled={} onClick={onClick} {...props} className={clsx(twMarge(styles({}),className))}>
+<button disabled={disabled} onClick={onClick} {...props} className={clsx(twMarge(styles({
+
+}),className))}>
 {icon}{value}{arrow}
 </button>
-</>
-
-)
-}
+</>)}
 
 
 
