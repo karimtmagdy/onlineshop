@@ -71,10 +71,11 @@ defaultVariants: {
 })
 
 return (<>
-<button disabled={disabled} onClick={onClick} {...props} className={clsx(twMarge(styles({
+<button disabled={disabled} onClick={onClick} {...props} className={clsx(twMarge(styles({ className,color,mode, variant,shape,outline,fit, gradient,size, loading,px,icon,value,arrow, classSpan 
 
 }),className))}>
-{icon}{value}{arrow}
+{icon}{value}
+<spanclassName={classSpan}>{arrow}</span>
 </button>
 </>)}
 
