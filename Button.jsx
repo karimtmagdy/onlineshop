@@ -2,7 +2,10 @@ import { cva, type VariantProps } from "class-variance-authority";
 import {clsx} from 'clsx'
 import {twMarge} from 'tailwind-marge'
 import {zinc,hot,green, sunshine, primary} from '@constants'
-// make variable dark with if statement es6 switch on to classes dark
+// make variable dark with if statement es6 switch on to classes dark and make default class justify-center but button hqve class toggle-menu replace it to justify-between
+
+const Button =({className,,,,,,,,icon,value,arrow, disabled,onClick,...props})=>{
+
 const styles=cva([`flex items-center`],{
 variants:{
 color:[
@@ -66,7 +69,7 @@ defaultVariants: {
     loading: "false",
   },
 })
-const Button =({className,,,,,,,,icon,value,arrow, disabled,onClick,...props})=>{
+
 return (<>
 <button disabled={disabled} onClick={onClick} {...props} className={clsx(twMarge(styles({
 
