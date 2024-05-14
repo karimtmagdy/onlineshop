@@ -13,9 +13,9 @@ size:{},
 px:{},
 }
 })
-const Button =({className,,,,,,,...props})=>{
+const Button =({className,,,,, disabled,onClick,...props})=>{
 return (<>
-<button  className={clsx(twMarge(styles({}),className))}>
+<button disabled={} onClick={onClick} {...props} className={clsx(twMarge(styles({}),className))}>
 {}{}{}
 </button>
 </>
