@@ -2,7 +2,8 @@ import { cva, type VariantProps } from "class-variance-authority";
 import {clsx} from 'clsx'
 import {twMarge} from 'tailwind-marge'
 import {zinc,hot,green, sunshine, primary} from '@constants'
-const styles=cva([''],{
+// 
+const styles=cva([`flex items-center`],{
 variants:{
 color:[
 'zinc','hot','green','sunshine','primary'],
@@ -37,16 +38,17 @@ warning:{},
 primary:{},
 ],
 fit:[
-xs:{'w- h-'},
-sm:{'w- h-'},
-md:{'w- h-'},
-lg:{'w- h-'},
+xs:{'w-5 h-5'},
+sm:{'w-6 h-6'},
+md:{'w-7 h-7'},
+lg:{'w-8 h-8'},
 ],
 size:[
-xs:{''},
-sm:{''},
-md:{''},
-lg:{''},
+xs:{'text-xs'},
+sm:{'text-sm'},
+md:{'text-md'},
+lg:{'text-lg'},
+xl:{'text-xl'},
 ],
 loading:[
 true:{''},
