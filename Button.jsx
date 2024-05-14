@@ -1,7 +1,7 @@
 import { cva, type VariantProps } from "class-variance-authority";
 import {clsx} from 'clsx'
 import {twMarge} from 'tailwind-marge'
-
+import {zinc,hot,green, sunshine, primary} from '@constants'
 const styles=cva([''],{
 variants:{
 color:[
