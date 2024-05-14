@@ -4,7 +4,7 @@ import {twMarge} from 'tailwind-marge'
 import {zinc,hot,green, sunshine, primary} from '@constants'
 // make variable dark with if statement es6 switch on to classes dark and make default class justify-center but button hqve class toggle-menu replace it to justify-between
 
-const Button =({className,,,,,,,,icon,value,arrow, disabled,onClick,...props})=>{
+const Button =({className, variant,shape,outline,gradient,fit,size, loading,px,icon,value,arrow, classSpan disabled,onClick,...props})=>{
 
 const styles=cva([`flex items-center`],{
 variants:{
