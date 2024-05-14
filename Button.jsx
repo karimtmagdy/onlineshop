@@ -4,6 +4,8 @@ import {twMarge} from 'tailwind-marge'
 
 const styles=cva([''],{
 variants:{
+color:[
+'zinc','hot','green','sunshine','primary'],
 mode:[
 menu:{''},
 switch:{''},
@@ -16,10 +18,9 @@ warning:{},
 primary:{},
 ],
 shape:[
-xs:{''},
-sm:{''},
-md:{''},
-lg:{''},
+rounded:'rounded',
+circle:'rounded-md',
+square:'rounded-xl',
 ],
 outline:[
 base:{},
@@ -35,8 +36,6 @@ success:{},
 warning:{},
 primary:{},
 ],
-color:[
-'zinc','hot','green','sunshine','primary'],
 fit:[
 xs:{'w- h-'},
 sm:{'w- h-'},
@@ -53,7 +52,12 @@ loading:[
 true:{''},
 false:{''},
 ],
-px:[''],
+px:[
+1:'',
+2:'',
+3:'',
+4:'',
+],
 },
 compoundVariants: [{ intent: "primary", size: "medium", class: "uppercase" }],
 defaultVariants: {
