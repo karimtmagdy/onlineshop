@@ -7,8 +7,8 @@ variants:{
 color:[
 'zinc','hot','green','sunshine','primary'],
 mode:[
-menu:{''},
-switch:{''},
+menu:{'toggle-menu'},
+switch:{'toggle-switch'},
 ],
 variant:[
 base:{},
