@@ -1,4 +1,4 @@
-import cva from 'class-variance-authority'
+import { cva, type VariantProps } from "class-variance-authority";
 import {clsx} from 'clsx'
 import {twMarge} from 'tailwind-marge'
 
@@ -15,6 +15,7 @@ false:'',
 },
 px:{},
 },
+compoundVariants: [{ intent: "primary", size: "medium", class: "uppercase" }],
 defaultVariants: {
     loading: "false",
   },
