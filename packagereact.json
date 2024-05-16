@@ -3,7 +3,7 @@
 "description":"",
 "version":"",
 "scripts":{},
-"Keywords":["react","component","npm","tailwind","css","","","","","reusable","","","","","",""],
+"Keywords":["react","component","npm","tailwind","css","","","","clsx","reusable","unique","","","","","package"],
 "author":"karim tarek",
 peerDependencies:{
 "react":"^16.0.0",
