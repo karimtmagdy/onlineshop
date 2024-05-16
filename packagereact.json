@@ -1,10 +1,15 @@
 {
+"version":"1.0.0",
 "name":"tailwind-unique",
 "description":"",
-"version":"",
-"scripts":{},
+"main":"src/index.js",
+"scripts":{
+   "build":"babel src -d dist",
+   "":"",
+},
 "Keywords":["react","component","npm","tailwind","css","","","","clsx","reusable","unique","","","","","package"],
 "author":"karim tarek",
+"licnse":"MIT",
 peerDependencies:{
 "react":"^16.0.0",
 "react-dom":"^16.0.0",
