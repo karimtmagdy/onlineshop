@@ -1,3 +1,16 @@
-{"name":"tailwind-unique",
-"scripts":"",
+{
+"name":"tailwind-unique",
+"description":"",
+"version":"",
+"scripts":{},
+"Keywords":["react","component","npm","tailwind","css","","","","","reusable","","","","","",""],
+"author":"karim tarek",
+peerDependencies:{
+"react":"^16.0.0",
+"react-dom":"^16.0.0",
+"tailwind-merge":"",
+"class-variance-authority":"",
+"clsx":"",
+"tailwindcss":"",
+}
 }
